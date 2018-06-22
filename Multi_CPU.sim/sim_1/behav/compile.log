@@ -1,0 +1,32 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sources_1/imports/new/selector5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module selector5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sources_1/imports/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sources_1/imports/new/RegFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sources_1/imports/new/PCSelect.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PCSelect
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sources_1/imports/new/IR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IR
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sources_1/imports/new/InstDecode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstDecode
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sources_1/imports/new/Extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sources_1/imports/new/DR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DR
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sources_1/imports/new/ControlUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ControlUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sources_1/imports/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sources_1/imports/new/DataMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sources_1/imports/new/InstructionMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sources_1/imports/new/selector32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module selector32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sources_1/imports/new/Multi_CPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Multi_CPU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.srcs/sim_1/imports/new/cpu_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CPU/Multi_CPU/Multi_CPU.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
